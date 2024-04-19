@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <description/>
+        <name>Test List Screen View Config</name>
+        <scratchpad_script/>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-19 04:09:15</sys_created_on>
+        <sys_id>36ea61d347e1021042d3f5e3416d43d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test List Screen View Config</sys_name>
+        <sys_package display_value="FormSG" source="x_591226_formsg">0a3a2dd747a1021042d3f5e3416d4352</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FormSG">0a3a2dd747a1021042d3f5e3416d4352</sys_scope>
+        <sys_update_name>sys_sg_view_config_36ea61d347e1021042d3f5e3416d43d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-19 04:09:15</sys_updated_on>
+        <table>x_591226_formsg_test</table>
+        <template display_value="Template 01">6bb0be5c41a71010f877183fc9b8be0c</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=36ea61d347e1021042d3f5e3416d43d4"/>
+</record_update>

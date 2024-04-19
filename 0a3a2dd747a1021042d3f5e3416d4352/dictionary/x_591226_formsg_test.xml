@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e1daad9347e1021042d3f5e3416d438c" label="Test" max_length="40" name="x_591226_formsg_test" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="FormSG" max_length="4000" name="formsg" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
